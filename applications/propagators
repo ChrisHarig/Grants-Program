@@ -20,7 +20,9 @@ Propagation networks are a computing model that lends itself to
 
 ### Overview
 
-Please provide the following:
+Propagation networks are a powerful computing model that we leverage to build expressive, composable and collaborative software. This software allows for the construction of p2p networks of any size and in any domain. The Web3 ecosystem is lacking simple, intuitive and powerful options for building networks, and we aim to accelerate adoption by providing them. This project sits at the center of our interests in computing models, open source software and decentralization.  
+
+Please provide the following: (CH NOTE: Provided above)
 
 - If the name of your project is not descriptive, a tagline (one sentence summary).
 - A brief description of your project.
@@ -28,6 +30,9 @@ Please provide the following:
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
+
+Brainstorm
+A little video of hooking up gadgets could be cool. Maybe a few views of a large network, messaging application or the table views. Could write some basic documentation too.  
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
@@ -39,7 +44,6 @@ We expect the teams to already have a solid idea about your project's expected f
 - What your project is *not* or will *not* provide or implement
   - This is a place for you to manage expectations and clarify any limitations that might not be obvious
 
-
 Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
 
 - The (future) tokenomics of your project
@@ -47,6 +51,12 @@ Things that shouldn’t be part of the application (see also our [FAQ](../docs/f
 - Business-oriented activities (marketing, business planning), events or outreach
 
 ### Ecosystem Fit
+
+With better open source tools, developers will be able to build their own p2p networks and export data to and from blockchains. New data moving on and off chain will expand the web3 ecosystem.  
+Who do we hope to target  
+We satisfy the needs of any individual or entity that want to build peer 2 peer applications... ehhh idk what to write here  
+Maybe here we show dSheets or libp2p and such  
+
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
@@ -66,14 +76,14 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Alexander Gusev
+- Ben Pope, Chris Harig
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** Your website
+- **Contact Name:** Alexander Gusev (CH NOTE: Probably throw Alex's name down for this)
+- **Contact Email:** alexandergusev42@gmail.com (e.g. john@duo.com)
+- **Website:** https://blindnabler.com/
 
 ### Legal Structure
 
@@ -81,6 +91,12 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 - **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
 
 ### Team's experience
+
+Alexander Gusev...
+
+Ben Pope...
+
+Chris Harig is a recent data science graduate with a open source projects in analytics for swim teams. He is eager to develop open source projects, expand the web3 ecosystem and learn new skills.  
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past.
 
@@ -123,10 +139,10 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested.
-- **DOT %:** Percentage of Total Costs to be paid in (vested) DOT (≥ 50%)
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 3
+- **Total Costs:** 30,000 USD
+- **DOT %:** 50%
 
 ### Milestone 1 Example — Basic functionality
 
